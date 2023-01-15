@@ -1,2 +1,3 @@
 # odin-recipes
 This is my Odin Recipes Project! 
+This project is assigned to us at the Odin Project so we can demonstrate our ability to use HTML by making a basic recipe website. We will be demonstrating how to title, make headings, separate words into paragraphs, italicize, embolden (Known as strong in HTML), insert links & images & lastly, write good commit messages. I will be making recipes from the popular farming RPG game Stardew Valley. Enjoy :)
